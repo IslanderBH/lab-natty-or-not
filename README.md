@@ -26,10 +26,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Neste projeto, apresentamos aspectos históricos e abordamos características da Bolsa brasileira B3 de uma forma poética. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini e D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizamos o Gemini para elaboração do texto sobre a B3 utilizando uma estrutura de soneto e em seguida construímos o video na plataforma D-ID 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
