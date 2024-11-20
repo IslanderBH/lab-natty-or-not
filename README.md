@@ -20,15 +20,3 @@ https://studio.d-id.com/share?id=665f176ee15708f9c7f2ae95a14eef9a&utm_source=cop
 ## 💭 Reflexão (Opcional)
 É realmente surpreendente o universo de possibilidades criativas que temos disponíveis para produçao de conteúdos na atualidade. Mesmo conhecendo pouco sobre determinado assunto, podemos nos aventurar no processo criativo em quaisquer áreas de conhecimento, simplesmente com um pouco de dedicaççao e curiosidade.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
