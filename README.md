@@ -20,10 +20,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Iniciando o projeto ;)
+# B3 EM VERSOS
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, apresentamos aspectos históricos e abordamos características da Bolsa brasileira B3 de uma forma poética. 
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
